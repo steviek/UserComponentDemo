@@ -3,7 +3,7 @@
 This is a demo project showing usage of a custom Hilt Component with a 'copy module' to propagate bindings to the Activity and ViewModel components. This project
 can be checked out to Android Studio, and you should be able to run the app or the test, but I've also included some code snippets and links here for convenience.
 
-Talk given at [Droidcon London 2024](https://london.droidcon.com/steven-kideckel/), slides [here](https://docs.google.com/presentation/d/1vzeyuDQfM715Sv2xv_S3Nj5dY0KtJXVVkt0obj3YLU4/edit?usp=sharing).
+Talk given at [Droidcon London 2024](https://www.droidcon.com/2024/11/22/elevated-dependency-injection-going-beyond-the-basics-with-custom-hilt-components/#), slides [here](https://docs.google.com/presentation/d/1vzeyuDQfM715Sv2xv_S3Nj5dY0KtJXVVkt0obj3YLU4/edit?usp=sharing).
 
 ## Creating a custom component
 
